@@ -12,7 +12,7 @@ export default function Footer() {
         </div>
         <div className="footer-links">
           <a
-            href="https://github.com/jussihagstrom"
+            href="https://github.com/jussiohag"
             target="_blank"
             rel="noopener noreferrer"
           >

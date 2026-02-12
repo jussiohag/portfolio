@@ -65,7 +65,7 @@
     "category": "wordpress",
     "description": "Automotive maintenance and repair service website.",
     "longDescription": "Built a website for Huoltoauto, an automotive maintenance and repair service in Finland. The site showcases their services, pricing, and allows customers to get in touch for vehicle maintenance needs.",
-    "screenshot": "placeholder.svg",
+    "screenshot": "huoltoauto.webp",
     "tags": ["WordPress", "PHP", "Business"],
     "role": "Web Developer",
     "year": "2017",
