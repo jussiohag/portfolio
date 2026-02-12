@@ -271,7 +271,7 @@
       "React popup interface with settings management"
     ],
     "links": {
-      "github": "https://github.com/jussihagstrom/formfiller"
+      "github": "https://github.com/jussiohag/formfiller"
     },
     "featured": true
   },
@@ -291,7 +291,7 @@
       "Automated job discovery pipeline"
     ],
     "links": {
-      "github": "https://github.com/jussihagstrom/jobfinder"
+      "github": "https://github.com/jussiohag/jobfinder"
     },
     "featured": true
   },
@@ -311,7 +311,7 @@
       "Responsive video player layout"
     ],
     "links": {
-      "github": "https://github.com/jussihagstrom/react_youtube"
+      "github": "https://github.com/jussiohag/react_youtube"
     },
     "featured": false
   },
@@ -331,7 +331,7 @@
       "Backtesting with historical data"
     ],
     "links": {
-      "github": "https://github.com/jussihagstrom/cryptotrader"
+      "github": "https://github.com/jussiohag/cryptotrader"
     },
     "featured": false
   },
@@ -339,21 +339,21 @@
     "id": "python-pong",
     "name": "Python Pong",
     "category": "coding",
-    "description": "Classic Pong game implementation in Python with Pygame.",
-    "longDescription": "A recreation of the classic Pong arcade game built with Python and Pygame. Features two-player gameplay, score tracking, ball physics, and paddle controls.",
-    "screenshot": "placeholder.svg",
-    "tags": ["Python", "Pygame", "Game Dev"],
+    "description": "Classic Pong game built with Python, Flask, HTML/CSS and Docker.",
+    "longDescription": "A recreation of the classic Pong arcade game built with Python and Flask, featuring an HTML/CSS frontend. The project includes Docker support for easy deployment and demonstrates game development concepts with a web-based approach.",
+    "screenshot": "python-pong.webp",
+    "tags": ["Python", "Flask", "HTML/CSS", "Docker"],
     "role": "Solo Developer",
-    "year": "2023",
+    "year": "2025",
     "achievements": [
-      "Smooth game loop and physics",
-      "Two-player paddle controls",
-      "Score tracking and game states"
+      "Web-based Pong with Flask backend",
+      "Dockerized for easy deployment",
+      "AI opponent implementation"
     ],
     "links": {
-      "github": "https://github.com/jussihagstrom/python_pong"
+      "github": "https://github.com/jussiohag/python_pong"
     },
-    "featured": false
+    "featured": true
   },
   {
     "id": "dungeoncrawl-rpg",
@@ -371,7 +371,7 @@
       "Inventory and character progression"
     ],
     "links": {
-      "github": "https://github.com/jussihagstrom/dungeoncrawl_rpg"
+      "github": "https://github.com/jussiohag/dungeoncrawl_rpg"
     },
     "featured": false
   },
@@ -391,7 +391,7 @@
       "Collision detection system"
     ],
     "links": {
-      "github": "https://github.com/jussihagstrom/cpp_game_raylib_test"
+      "github": "https://github.com/jussiohag/cpp_game_raylib_test"
     },
     "featured": false
   },
@@ -411,7 +411,7 @@
       "Data persistence and validation"
     ],
     "links": {
-      "github": "https://github.com/jussihagstrom/java_spring_demo"
+      "github": "https://github.com/jussiohag/java_spring_demo"
     },
     "featured": false
   }
