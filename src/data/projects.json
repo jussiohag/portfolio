@@ -1,0 +1,418 @@
+[
+  {
+    "id": "rakennuspartio",
+    "name": "Rakennuspartio.fi",
+    "category": "wordpress",
+    "description": "Construction company website with service listings and contact forms.",
+    "longDescription": "Built a professional WordPress website for Rakennuspartio, a Finnish construction company. The site features service descriptions, project galleries, and contact functionality to help the company establish an online presence and attract clients.",
+    "screenshot": "placeholder.svg",
+    "tags": ["WordPress", "PHP", "Business"],
+    "role": "Web Developer",
+    "year": "2017",
+    "achievements": [
+      "Custom WordPress theme development",
+      "Responsive design for mobile users",
+      "SEO optimization for local search"
+    ],
+    "links": {
+      "wayback": "https://web.archive.org/web/2018/https://rakennuspartio.fi/"
+    },
+    "featured": true
+  },
+  {
+    "id": "kromatografiaseura",
+    "name": "Kromatografiaseura.fi",
+    "category": "wordpress",
+    "description": "Finnish Chromatography Society's official website.",
+    "longDescription": "Developed the website for Kromatografiaseura (Finnish Chromatography Society), an academic organization. The site provides information about the society, upcoming events, and membership details for researchers and professionals in the chromatography field.",
+    "screenshot": "placeholder.svg",
+    "tags": ["WordPress", "PHP", "Academic"],
+    "role": "Web Developer",
+    "year": "2017",
+    "achievements": [
+      "Event listing and management features",
+      "Member information section",
+      "Clean, professional academic design"
+    ],
+    "links": {
+      "wayback": "https://web.archive.org/web/2018/https://kromatografiaseura.fi/"
+    },
+    "featured": false
+  },
+  {
+    "id": "hoghelsinki",
+    "name": "HOG Helsinki",
+    "category": "wordpress",
+    "description": "Harley Owners Group Helsinki Chapter website.",
+    "longDescription": "Created the website for HOG Helsinki, the local chapter of Harley Owners Group. The site served as a hub for chapter members, featuring event calendars, ride schedules, photo galleries, and community updates for Harley-Davidson enthusiasts in the Helsinki area.",
+    "screenshot": "placeholder.svg",
+    "tags": ["WordPress", "PHP", "Community"],
+    "role": "Web Developer",
+    "year": "2016",
+    "achievements": [
+      "Event calendar integration",
+      "Photo gallery for ride events",
+      "Member community features"
+    ],
+    "links": {
+      "wayback": "https://web.archive.org/web/2017/https://hoghelsinki.fi/"
+    },
+    "featured": false
+  },
+  {
+    "id": "huoltoauto",
+    "name": "Huoltoauto.com",
+    "category": "wordpress",
+    "description": "Automotive maintenance and repair service website.",
+    "longDescription": "Built a website for Huoltoauto, an automotive maintenance and repair service in Finland. The site showcases their services, pricing, and allows customers to get in touch for vehicle maintenance needs.",
+    "screenshot": "placeholder.svg",
+    "tags": ["WordPress", "PHP", "Business"],
+    "role": "Web Developer",
+    "year": "2017",
+    "achievements": [
+      "Service catalog with detailed descriptions",
+      "Contact form integration",
+      "Mobile-friendly responsive layout"
+    ],
+    "links": {
+      "wayback": "https://web.archive.org/web/2018/https://huoltoauto.com/"
+    },
+    "featured": false
+  },
+  {
+    "id": "wossikka",
+    "name": "Wossikka.fi",
+    "category": "wordpress",
+    "description": "Finnish lifestyle and culture website.",
+    "longDescription": "Developed Wossikka.fi, a Finnish lifestyle and culture website. The site features articles, event listings, and community content for its audience.",
+    "screenshot": "placeholder.svg",
+    "tags": ["WordPress", "PHP", "Lifestyle"],
+    "role": "Web Developer",
+    "year": "2016",
+    "achievements": [
+      "Custom content management setup",
+      "Blog and article publishing system",
+      "Social media integration"
+    ],
+    "links": {
+      "wayback": "https://web.archive.org/web/2017/https://wossikka.fi/"
+    },
+    "featured": false
+  },
+  {
+    "id": "jalotofu",
+    "name": "Jalotofu",
+    "category": "wordpress",
+    "description": "Product website for a Finnish tofu brand.",
+    "longDescription": "Created the website for Jalotofu, a Finnish tofu and plant-based food brand. The site features product information, recipes, and brand storytelling to help promote their plant-based products to Finnish consumers.",
+    "screenshot": "placeholder.svg",
+    "tags": ["WordPress", "PHP", "E-commerce"],
+    "role": "Web Developer",
+    "year": "2016",
+    "achievements": [
+      "Product catalog with detailed information",
+      "Recipe section for consumer engagement",
+      "Brand-aligned visual design"
+    ],
+    "links": {
+      "wayback": "https://web.archive.org/web/2017/https://jalotofu.fi/"
+    },
+    "featured": true
+  },
+  {
+    "id": "reissumies",
+    "name": "Reissumies",
+    "category": "wordpress",
+    "description": "Travel blog and adventure content website.",
+    "longDescription": "Built Reissumies, a Finnish travel blog and adventure content site. Features travel stories, destination guides, photography, and tips for fellow travelers exploring the world.",
+    "screenshot": "placeholder.svg",
+    "tags": ["WordPress", "PHP", "Blog"],
+    "role": "Web Developer",
+    "year": "2016",
+    "achievements": [
+      "Custom blog layout with rich media support",
+      "Image gallery and photo management",
+      "Category-based content organization"
+    ],
+    "links": {
+      "wayback": "https://web.archive.org/web/2017/https://reissumies.fi/"
+    },
+    "featured": false
+  },
+  {
+    "id": "puolenkuun-pelit",
+    "name": "Puolenkuun Pelit",
+    "category": "wordpress",
+    "description": "Board game and tabletop gaming store website.",
+    "longDescription": "Developed the website for Puolenkuun Pelit, a Finnish board game and tabletop gaming store. The site features their product catalog, event information for gaming nights, and serves as an online presence for one of Finland's well-known gaming shops.",
+    "screenshot": "placeholder.svg",
+    "tags": ["WordPress", "PHP", "E-commerce"],
+    "role": "Web Developer",
+    "year": "2016",
+    "achievements": [
+      "Product catalog browsing",
+      "Event and gaming night listings",
+      "Store information and location details"
+    ],
+    "links": {
+      "wayback": "https://web.archive.org/web/2017/https://puolenkuunpelit.com/"
+    },
+    "featured": false
+  },
+  {
+    "id": "kivenlahti-rock",
+    "name": "Kivenlahti Rock",
+    "category": "wordpress",
+    "description": "Music festival website with lineup and ticket information.",
+    "longDescription": "Created the website for Kivenlahti Rock, a Finnish rock music festival. The site features band lineups, ticket purchasing information, festival schedule, and practical visitor information for attendees.",
+    "screenshot": "placeholder.svg",
+    "tags": ["WordPress", "PHP", "Events"],
+    "role": "Web Developer",
+    "year": "2016",
+    "achievements": [
+      "Festival lineup and schedule display",
+      "Ticket information integration",
+      "Event countdown and promotional features"
+    ],
+    "links": {
+      "wayback": "https://web.archive.org/web/2017/https://kivenlahtirock.fi/"
+    },
+    "featured": true
+  },
+  {
+    "id": "liveblast",
+    "name": "Liveblast Festival 2017",
+    "category": "wordpress",
+    "description": "Music festival website with artist lineup and event details.",
+    "longDescription": "Built the website for Liveblast Festival 2017, a Finnish music festival. Features included artist lineup presentation, ticket sales integration, event schedule, and venue information to drive festival attendance and provide visitor information.",
+    "screenshot": "placeholder.svg",
+    "tags": ["WordPress", "PHP", "Events"],
+    "role": "Web Developer",
+    "year": "2017",
+    "achievements": [
+      "Artist lineup with bios and photos",
+      "Interactive event schedule",
+      "Ticket sales integration"
+    ],
+    "links": {
+      "wayback": "https://web.archive.org/web/2017/https://liveblast.fi/"
+    },
+    "featured": false
+  },
+  {
+    "id": "lahipalvelut",
+    "name": "Lähipalvelut.com",
+    "category": "saas",
+    "description": "Local services marketplace connecting service providers with customers.",
+    "longDescription": "Developed Lähipalvelut.com, a local services marketplace platform in Finland. The platform connects local service providers with customers, featuring service listings, provider profiles, booking capabilities, and a review system to facilitate local commerce.",
+    "screenshot": "placeholder.svg",
+    "tags": ["SaaS", "Marketplace", "Full Stack"],
+    "role": "Full Stack Developer",
+    "year": "2017",
+    "achievements": [
+      "Service provider listing and discovery",
+      "User registration and profile management",
+      "Search and filtering functionality"
+    ],
+    "links": {
+      "wayback": "https://web.archive.org/web/2018/https://xn--lhipalvelut-5cba.com/"
+    },
+    "featured": true
+  },
+  {
+    "id": "construction-hiring",
+    "name": "Construction Worker Hiring Platform",
+    "category": "saas",
+    "description": "Platform for hiring construction workers and managing job postings.",
+    "longDescription": "Built a specialized hiring platform for the construction industry. The platform enables construction companies to post job openings, review worker profiles, and manage the hiring process. Workers can create profiles, showcase their skills, and apply for positions.",
+    "screenshot": "placeholder.svg",
+    "tags": ["SaaS", "Platform", "Full Stack"],
+    "role": "Full Stack Developer",
+    "year": "2018",
+    "achievements": [
+      "Job posting and application system",
+      "Worker profile and skill management",
+      "Employer dashboard for candidate review"
+    ],
+    "links": {},
+    "featured": true
+  },
+  {
+    "id": "cabin-rental",
+    "name": "Cabin Rental Business",
+    "category": "saas",
+    "description": "Cabin rental booking platform with availability management.",
+    "longDescription": "Developed a cabin rental business platform for managing property listings, availability calendars, and customer bookings. The system includes an admin panel for property owners and a customer-facing booking experience.",
+    "screenshot": "placeholder.svg",
+    "tags": ["SaaS", "Booking", "Full Stack"],
+    "role": "Full Stack Developer",
+    "year": "2018",
+    "achievements": [
+      "Availability calendar and booking system",
+      "Property listing management",
+      "Customer booking flow"
+    ],
+    "links": {},
+    "featured": false
+  },
+  {
+    "id": "formfiller",
+    "name": "FormFiller",
+    "category": "coding",
+    "description": "Chrome extension for auto-filling forms using AI-powered data extraction.",
+    "longDescription": "Built a Chrome extension that uses AI to automatically fill web forms. The extension analyzes form fields and matches them with user data, supporting various form types including job applications, registration forms, and contact forms. Features a React-based popup UI and background service worker.",
+    "screenshot": "placeholder.svg",
+    "tags": ["React", "Chrome Extension", "JavaScript", "AI"],
+    "role": "Solo Developer",
+    "year": "2024",
+    "achievements": [
+      "AI-powered form field detection and matching",
+      "Chrome Extension Manifest V3 architecture",
+      "React popup interface with settings management"
+    ],
+    "links": {
+      "github": "https://github.com/jussihagstrom/formfiller"
+    },
+    "featured": true
+  },
+  {
+    "id": "jobfinder",
+    "name": "JobFinder",
+    "category": "coding",
+    "description": "Job search aggregation tool that finds and organizes job listings.",
+    "longDescription": "Developed a job search tool that aggregates listings from multiple sources, helping users find relevant positions more efficiently. Features include search filtering, saved searches, and organized job listing management.",
+    "screenshot": "placeholder.svg",
+    "tags": ["Python", "Web Scraping", "Automation"],
+    "role": "Solo Developer",
+    "year": "2024",
+    "achievements": [
+      "Multi-source job listing aggregation",
+      "Advanced search and filtering",
+      "Automated job discovery pipeline"
+    ],
+    "links": {
+      "github": "https://github.com/jussihagstrom/jobfinder"
+    },
+    "featured": true
+  },
+  {
+    "id": "react-youtube",
+    "name": "React YouTube",
+    "category": "coding",
+    "description": "YouTube video search and player app built with React.",
+    "longDescription": "A React application that integrates with the YouTube Data API to provide video search, browsing, and playback functionality. Features a clean UI with search, video list, and embedded player components.",
+    "screenshot": "placeholder.svg",
+    "tags": ["React", "JavaScript", "API Integration"],
+    "role": "Solo Developer",
+    "year": "2023",
+    "achievements": [
+      "YouTube Data API integration",
+      "Real-time search with debouncing",
+      "Responsive video player layout"
+    ],
+    "links": {
+      "github": "https://github.com/jussihagstrom/react_youtube"
+    },
+    "featured": false
+  },
+  {
+    "id": "cryptotrader",
+    "name": "CryptoTrader",
+    "category": "coding",
+    "description": "Cryptocurrency trading bot with real-time market data analysis.",
+    "longDescription": "Built an automated cryptocurrency trading bot that monitors market data in real-time, applies trading strategies, and executes trades. Includes backtesting capabilities and configurable trading parameters.",
+    "screenshot": "placeholder.svg",
+    "tags": ["Python", "Trading", "API Integration"],
+    "role": "Solo Developer",
+    "year": "2023",
+    "achievements": [
+      "Real-time market data streaming",
+      "Configurable trading strategy engine",
+      "Backtesting with historical data"
+    ],
+    "links": {
+      "github": "https://github.com/jussihagstrom/cryptotrader"
+    },
+    "featured": false
+  },
+  {
+    "id": "python-pong",
+    "name": "Python Pong",
+    "category": "coding",
+    "description": "Classic Pong game implementation in Python with Pygame.",
+    "longDescription": "A recreation of the classic Pong arcade game built with Python and Pygame. Features two-player gameplay, score tracking, ball physics, and paddle controls.",
+    "screenshot": "placeholder.svg",
+    "tags": ["Python", "Pygame", "Game Dev"],
+    "role": "Solo Developer",
+    "year": "2023",
+    "achievements": [
+      "Smooth game loop and physics",
+      "Two-player paddle controls",
+      "Score tracking and game states"
+    ],
+    "links": {
+      "github": "https://github.com/jussihagstrom/python_pong"
+    },
+    "featured": false
+  },
+  {
+    "id": "dungeoncrawl-rpg",
+    "name": "Dungeon Crawl RPG",
+    "category": "coding",
+    "description": "Text-based dungeon crawler RPG with procedural generation.",
+    "longDescription": "A text-based RPG dungeon crawler featuring procedural dungeon generation, turn-based combat, inventory management, and character progression. Players explore randomly generated dungeons, fight monsters, and collect loot.",
+    "screenshot": "placeholder.svg",
+    "tags": ["Python", "Game Dev", "Procedural Generation"],
+    "role": "Solo Developer",
+    "year": "2023",
+    "achievements": [
+      "Procedural dungeon generation",
+      "Turn-based combat system",
+      "Inventory and character progression"
+    ],
+    "links": {
+      "github": "https://github.com/jussihagstrom/dungeoncrawl_rpg"
+    },
+    "featured": false
+  },
+  {
+    "id": "cpp-raylib-game",
+    "name": "C++ Raylib Game",
+    "category": "coding",
+    "description": "2D game prototype built with C++ and the Raylib graphics library.",
+    "longDescription": "A 2D game prototype developed in C++ using the Raylib graphics library. Features sprite rendering, input handling, collision detection, and basic game mechanics as an exploration of game development with C++.",
+    "screenshot": "placeholder.svg",
+    "tags": ["C++", "Raylib", "Game Dev"],
+    "role": "Solo Developer",
+    "year": "2023",
+    "achievements": [
+      "Raylib graphics integration",
+      "Sprite rendering and animation",
+      "Collision detection system"
+    ],
+    "links": {
+      "github": "https://github.com/jussihagstrom/cpp_game_raylib_test"
+    },
+    "featured": false
+  },
+  {
+    "id": "java-spring-demo",
+    "name": "Java Spring Demo",
+    "category": "coding",
+    "description": "Demo application showcasing Java Spring Boot REST API development.",
+    "longDescription": "A demonstration application built with Java Spring Boot, showcasing REST API development patterns including CRUD operations, data persistence, service layer architecture, and proper error handling.",
+    "screenshot": "placeholder.svg",
+    "tags": ["Java", "Spring Boot", "REST API"],
+    "role": "Solo Developer",
+    "year": "2023",
+    "achievements": [
+      "RESTful API with CRUD operations",
+      "Spring Boot service layer architecture",
+      "Data persistence and validation"
+    ],
+    "links": {
+      "github": "https://github.com/jussihagstrom/java_spring_demo"
+    },
+    "featured": false
+  }
+]
