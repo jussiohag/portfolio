@@ -40,22 +40,22 @@
     "featured": false
   },
   {
-    "id": "hoghelsinki",
-    "name": "HOG Helsinki",
+    "id": "ccf",
+    "name": "CCF.fi",
     "category": "wordpress",
-    "description": "Harley Owners Group Helsinki Chapter website.",
-    "longDescription": "Created the website for HOG Helsinki, the local chapter of Harley Owners Group. The site served as a hub for chapter members, featuring event calendars, ride schedules, photo galleries, and community updates for Harley-Davidson enthusiasts in the Helsinki area.",
-    "screenshot": "placeholder.svg",
-    "tags": ["WordPress", "PHP", "Community"],
+    "description": "Corporate website for CCF, a Finnish company.",
+    "longDescription": "Built the website for CCF (www.ccf.fi), a Finnish company. The site features company information, service descriptions, and contact functionality, providing a professional online presence.",
+    "screenshot": "ccf.png",
+    "tags": ["WordPress", "PHP", "Business"],
     "role": "Web Developer",
     "year": "2016",
     "achievements": [
-      "Event calendar integration",
-      "Photo gallery for ride events",
-      "Member community features"
+      "Professional company website",
+      "Service and contact pages",
+      "Responsive design"
     ],
     "links": {
-      "wayback": "https://web.archive.org/web/2017/https://hoghelsinki.fi/"
+      "live": "https://www.ccf.fi/"
     },
     "featured": false
   },
@@ -145,7 +145,7 @@
     "category": "wordpress",
     "description": "Board game and tabletop gaming store website.",
     "longDescription": "Developed the website for Puolenkuun Pelit, a Finnish board game and tabletop gaming store. The site features their product catalog, event information for gaming nights, and serves as an online presence for one of Finland's well-known gaming shops.",
-    "screenshot": "placeholder.svg",
+    "screenshot": "puolenkuunpelit.png",
     "tags": ["WordPress", "PHP", "E-commerce"],
     "role": "Web Developer",
     "year": "2016",
@@ -165,7 +165,7 @@
     "category": "wordpress",
     "description": "Music festival website with lineup and ticket information.",
     "longDescription": "Created the website for Kivenlahti Rock, a Finnish rock music festival. The site features band lineups, ticket purchasing information, festival schedule, and practical visitor information for attendees.",
-    "screenshot": "placeholder.svg",
+    "screenshot": "kivenlahtirock.png",
     "tags": ["WordPress", "PHP", "Events"],
     "role": "Web Developer",
     "year": "2016",
