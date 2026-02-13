@@ -6,7 +6,7 @@ export default function Header({ theme, toggleTheme }) {
       <div className="container header-inner">
         <a href="#top" className="header-logo">JH</a>
         <nav className="header-nav">
-          <a href="#projects">Projects</a>
+          <a href="#top">Projects</a>
           <a href="#contact">Contact</a>
           <button
             className="theme-toggle"

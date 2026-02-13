@@ -341,7 +341,7 @@
     "category": "coding",
     "description": "Classic Pong game built with Python, Flask, HTML/CSS and Docker.",
     "longDescription": "A recreation of the classic Pong arcade game built with Python and Flask, featuring an HTML/CSS frontend. The project includes Docker support for easy deployment and demonstrates game development concepts with a web-based approach.",
-    "screenshot": "python-pong.webp",
+    "screenshot": "python_pong.png",
     "tags": ["Python", "Flask", "HTML/CSS", "Docker"],
     "role": "Solo Developer",
     "year": "2025",
