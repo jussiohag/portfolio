@@ -21,10 +21,32 @@
   font-weight: 700;
   color: var(--color-text);
   letter-spacing: -0.02em;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
+  padding: 0;
 }
 
 .header-logo:hover {
   color: var(--color-accent);
+}
+
+.nav-link {
+  background: none;
+  border: none;
+  font-family: inherit;
+  padding: 0;
+  color: var(--color-text-secondary);
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+
+.nav-link:hover,
+.nav-link.active {
+  color: var(--color-text);
 }
 
 .header-nav {

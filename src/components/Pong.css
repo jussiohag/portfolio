@@ -1,0 +1,102 @@
+.pong-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 32px 24px 48px;
+  min-height: calc(100vh - var(--header-height));
+}
+
+.pong-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.pong-header h1 {
+  font-size: 2rem;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  margin-bottom: 6px;
+}
+
+.pong-subtitle {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: var(--color-text-secondary);
+}
+
+.score-player { color: #60a5fa; }
+.score-ai     { color: #f87171; }
+
+.pong-canvas-wrap {
+  position: relative;
+  width: 100%;
+  max-width: 800px;
+}
+
+.pong-canvas {
+  display: block;
+  width: 100%;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--color-border);
+}
+
+.pong-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(15, 23, 42, 0.85);
+  border-radius: var(--radius-lg);
+  backdrop-filter: blur(4px);
+}
+
+.pong-overlay-box {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+
+.pong-overlay-box h2 {
+  font-size: 2rem;
+  font-weight: 800;
+  color: #f1f5f9;
+}
+
+.pong-overlay-box p {
+  color: #94a3b8;
+  font-size: 1rem;
+}
+
+.pong-controls {
+  font-family: var(--font-mono);
+  font-size: 0.85rem !important;
+  background: #1e293b;
+  padding: 6px 14px;
+  border-radius: var(--radius-sm);
+  color: #60a5fa !important;
+}
+
+.pong-btn {
+  margin-top: 8px;
+  padding: 10px 32px;
+  background: #3b82f6;
+  color: white;
+  border-radius: var(--radius-full);
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  transition: background 0.2s;
+}
+
+.pong-btn:hover { background: #2563eb; }
+
+.pong-hint {
+  margin-top: 14px;
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+}
