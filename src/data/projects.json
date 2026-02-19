@@ -364,7 +364,7 @@
     "category": "coding",
     "description": "Recursively downloads files from websites by type, with a TUI and CLI interface.",
     "longDescription": "A Python tool for bulk downloading files from websites by file type pattern (e.g. *.pdf, *.mp3). Features both a CLI and a full TUI built with urwid, with a Catppuccin color theme, real-time progress, and directory structure preservation.",
-    "screenshot": "web-scraper.png",
+    "screenshot": "web-scraper.svg",
     "tags": [
       "Python",
       "Web Scraping",
