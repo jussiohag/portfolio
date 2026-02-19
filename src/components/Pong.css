@@ -46,9 +46,15 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background: rgba(15, 23, 42, 0.85);
+  background: rgba(15, 23, 42, 0.92);
   border-radius: var(--radius-lg);
   backdrop-filter: blur(4px);
+  border: 1px solid rgba(148, 163, 184, 0.15);
+}
+
+[data-theme="dark"] .pong-overlay {
+  background: rgba(30, 41, 59, 0.92);
+  border: 1px solid rgba(148, 163, 184, 0.2);
 }
 
 .pong-overlay-box {
