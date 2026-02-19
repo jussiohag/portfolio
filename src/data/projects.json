@@ -221,7 +221,7 @@
     "category": "saas",
     "description": "Platform for hiring construction workers and managing job postings.",
     "longDescription": "Built a specialized hiring platform for the construction industry. The platform enables construction companies to post job openings, review worker profiles, and manage the hiring process. Workers can create profiles, showcase their skills, and apply for positions.",
-    "screenshot": "placeholder.svg",
+    "screenshot": "construction-hiring.svg",
     "tags": [
       "SaaS",
       "Platform",
@@ -243,7 +243,7 @@
     "category": "saas",
     "description": "Cabin rental booking platform with availability management.",
     "longDescription": "Developed a cabin rental business platform for managing property listings, availability calendars, and customer bookings. The system includes an admin panel for property owners and a customer-facing booking experience.",
-    "screenshot": "placeholder.svg",
+    "screenshot": "cabin-rental.svg",
     "tags": [
       "SaaS",
       "Booking",
@@ -265,7 +265,7 @@
     "category": "coding",
     "description": "Bookmarklet-based LinkedIn Easy Apply auto-filler with AI-powered CV import.",
     "longDescription": "A React app that generates a bookmarklet to auto-fill LinkedIn Easy Apply forms. Stores your full job application profile (personal info, experience, education, skills) in the browser. Optionally imports your CV via the Anthropic API to populate your profile automatically. No server required — everything runs locally.",
-    "screenshot": "placeholder.svg",
+    "screenshot": "formfiller.png",
     "tags": [
       "React",
       "JavaScript",
@@ -291,7 +291,7 @@
     "category": "coding",
     "description": "Job search aggregation tool that finds and organizes job listings.",
     "longDescription": "Developed a job search tool that aggregates listings from multiple sources, helping users find relevant positions more efficiently. Features include search filtering, saved searches, and organized job listing management.",
-    "screenshot": "placeholder.svg",
+    "screenshot": "jobfinder.png",
     "tags": [
       "Python",
       "Web Scraping",
@@ -340,7 +340,7 @@
     "category": "coding",
     "description": "Personal job-seeking assistant that compares your CV against your LinkedIn profile.",
     "longDescription": "A personal job-seeking assistant that parses CV data and compares it against a LinkedIn profile to identify gaps, inconsistencies, and opportunities. Integrates with Jira for project management and uses environment-based secret management.",
-    "screenshot": "placeholder.svg",
+    "screenshot": "linkedin-tool.png",
     "tags": [
       "Python",
       "LinkedIn",
@@ -364,7 +364,7 @@
     "category": "coding",
     "description": "Recursively downloads files from websites by type, with a TUI and CLI interface.",
     "longDescription": "A Python tool for bulk downloading files from websites by file type pattern (e.g. *.pdf, *.mp3). Features both a CLI and a full TUI built with urwid, with a Catppuccin color theme, real-time progress, and directory structure preservation.",
-    "screenshot": "placeholder.svg",
+    "screenshot": "web-scraper.png",
     "tags": [
       "Python",
       "Web Scraping",
