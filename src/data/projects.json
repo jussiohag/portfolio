@@ -99,12 +99,14 @@
     "id": "jalotofu",
     "name": "Jalotofu",
     "category": "wordpress",
-    "description": "Product website for a Finnish tofu brand.",
-    "longDescription": "Created the website for Jalotofu, a Finnish tofu and plant-based food brand. The site features product information, recipes, and brand storytelling to help promote their plant-based products to Finnish consumers.",
+    "description": "WordPress site, Facebook app, and Flash application for a Finnish tofu brand.",
+    "longDescription": "Created the web presence for Jalotofu, a Finnish tofu and plant-based food brand. Work included the WordPress website with product information and recipes, a Facebook application for brand engagement, and a Flash-based interactive experience for the brand.",
     "screenshot": "jalotofu.png",
     "tags": [
       "WordPress",
       "PHP",
+      "Flash",
+      "Facebook",
       "E-commerce"
     ],
     "role": "Web Developer",
@@ -123,12 +125,14 @@
     "id": "reissumies",
     "name": "Reissumies",
     "category": "wordpress",
-    "description": "Travel blog and adventure content website.",
-    "longDescription": "Built Reissumies, a Finnish travel blog and adventure content site. Features travel stories, destination guides, photography, and tips for fellow travelers exploring the world.",
+    "description": "WordPress site and Facebook app for a Finnish travel and adventure blog.",
+    "longDescription": "Built the online presence for Reissumies, a Finnish travel and adventure content brand. Work included the WordPress site with travel stories, destination guides and photography, as well as a Facebook application to extend reach and engagement on social media.",
     "screenshot": "reissumies.png",
     "tags": [
       "WordPress",
       "PHP",
+      "Flash",
+      "Facebook",
       "Blog"
     ],
     "role": "Web Developer",
