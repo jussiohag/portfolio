@@ -343,7 +343,7 @@
     "name": "LinkedIn Tool",
     "category": "coding",
     "description": "Personal job-seeking assistant that compares your CV against your LinkedIn profile.",
-    "longDescription": "A personal job-seeking assistant that parses CV data and compares it against a LinkedIn profile to identify gaps, inconsistencies, and opportunities. Integrates with Jira for project management and uses environment-based secret management.",
+    "longDescription": "A personal job-seeking assistant that parses CV data and compares it against a LinkedIn profile to identify gaps, inconsistencies, and opportunities. Uses environment-based secret management with KeePassXC.",
     "screenshot": "linkedin-tool.png",
     "tags": [
       "Python",
@@ -354,7 +354,6 @@
     "year": "2025",
     "achievements": [
       "CV vs LinkedIn discrepancy detection",
-      "Jira integration for task management",
       "Secure credential management via .env"
     ],
     "links": {
