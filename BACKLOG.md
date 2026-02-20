@@ -14,6 +14,15 @@
 - [ ] Choose a format: badges, table, or grouped list
 - [ ] Evaluate GitHub Pro: private repos + Actions minutes + Pages — is it worth it?
 
+## Phase 0.5 — Photos
+
+- [ ] Get proper professional photos taken (or find best existing ones)
+      — Headshot: clean background, good lighting, professional but approachable
+      — Action/working shot: at desk, coding setup, natural
+- [ ] Check existing photos: KUVA - Jussi Hagström.png in ~/Desktop/cv/ — is it good enough?
+- [ ] Use same photo consistently: portfolio, LinkedIn, GitHub, CV
+- [ ] Optional: short video intro for portfolio landing page
+
 ## Phase 1 — Profile polish
 
 - [ ] Update portfolio bio/tagline to match CV headline
@@ -26,7 +35,16 @@
 - [ ] Decide which projects to feature (candidates: jobfinder, formfiller, linkedin_tool, scripts, historic_games)
 - [ ] Write 2–3 sentence case studies per featured project
 - [ ] Add live demo links or screenshots for each
-- [ ] Archive or hide incomplete/old projects from public view
+- [ ] Archive or hide incomplete/old projects from public view (python_pong removed — already private)
+
+### Side project / curiosity — AI vs AI Pong
+- [ ] Build a Pong variant where two AIs play each other
+      — Simple ball-tracking AI to start, then improve each "player" independently
+      — Could use different AI strategies: rule-based, reinforcement learning, Claude API
+      — Embed as a live demo or GIF on the portfolio — fun, memorable, shows initiative
+      — Frame it as a curiosity: "What happens when two AIs compete?"
+- [ ] Tech: Python + pygame (or JS canvas for web embed)
+- [ ] Keep it lightweight — the point is the concept, not a production game
 
 ## Phase 3 — CV page
 
