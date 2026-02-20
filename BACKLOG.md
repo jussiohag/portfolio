@@ -51,6 +51,12 @@
 - [ ] Add CV/Resume page or PDF download
 - [ ] Consider role-tailored CV variants (dev, PM, consultant)
 
+## Networking
+
+- [ ] Contact Topias Hirvonen — find phone, email, or Facebook
+      — Ask about Jalotofu and Reissumies project details (Facebook apps, emails, any paper trail)
+      — Ask about new job opportunities
+
 ## Phase 4 — Ongoing
 
 - [ ] Keep tech stack page in sync with new skills
