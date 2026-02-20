@@ -9,7 +9,7 @@
       **Databases:** MySQL/PostgreSQL, MongoDB
       **DevOps:** Docker, CI/CD (GitHub Actions), Linux/LAMP, AWS, DigitalOcean
       **Automation:** Selenium, Playwright, Claude/Anthropic API
-      **Tools:** Git, Jira, Claude Code, VS Code
+      **Tools:** Git, Claude Code, VS Code
       **PM/Agile:** Certified PM, CSM (Scrum Master), 25+ yrs experience
 - [ ] Choose a format: badges, table, or grouped list
 - [ ] Evaluate GitHub Pro: private repos + Actions minutes + Pages — is it worth it?
