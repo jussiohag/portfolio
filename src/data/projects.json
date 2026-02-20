@@ -99,8 +99,8 @@
     "id": "jalotofu",
     "name": "Jalotofu",
     "category": "wordpress",
-    "description": "WordPress site, Facebook app, and Flash application for a Finnish tofu brand.",
-    "longDescription": "Created the web presence for Jalotofu, a Finnish tofu and plant-based food brand. Work included the WordPress website with product information and recipes, a Facebook application for brand engagement, and a Flash-based interactive experience for the brand.",
+    "description": "WordPress site and Facebook campaign for a Finnish tofu brand.",
+    "longDescription": "Created the web presence for Jalotofu, a Finnish tofu and plant-based food brand. Work included the WordPress website with product information and recipes, and a Facebook campaign or app to promote the brand on social media.",
     "screenshot": "jalotofu.png",
     "tags": [
       "WordPress",
@@ -126,7 +126,7 @@
     "name": "Reissumies",
     "category": "wordpress",
     "description": "WordPress site and Facebook app for a Finnish travel and adventure blog.",
-    "longDescription": "Built the online presence for Reissumies, a Finnish travel and adventure content brand. Work included the WordPress site with travel stories, destination guides and photography, as well as a Facebook application to extend reach and engagement on social media.",
+    "longDescription": "Built the online presence for Reissumies, a Finnish travel and adventure content brand. Work included the WordPress site with travel stories and destination guides, as well as a viral Facebook app that let users generate their own personalised bread-package name — turning \"Reissumies\" into alternatives like Palomies, Merimies, or Leipähenkilö.",
     "screenshot": "reissumies.png",
     "tags": [
       "WordPress",
