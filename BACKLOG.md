@@ -16,11 +16,11 @@
 
 ## Phase 0.5 — Photos
 
-- [ ] Get proper professional photos taken (or find best existing ones)
-      — Headshot: clean background, good lighting, professional but approachable
-      — Action/working shot: at desk, coding setup, natural
-- [ ] Check existing photos: KUVA - Jussi Hagström.png in ~/Desktop/cv/ — is it good enough?
-- [ ] Use same photo consistently: portfolio, LinkedIn, GitHub, CV
+- [ ] Screenshots / demos for each featured project (in-browser or GIF)
+- [ ] Headshot / mugshot: get a good photo taken or find best existing one
+      — Check: KUVA - Jussi Hagström.png in ~/Desktop/cv/ — good enough?
+      — Clean background, good lighting, approachable
+- [ ] Use same headshot consistently: portfolio, LinkedIn, GitHub, CV
 - [ ] Optional: short video intro for portfolio landing page
 
 ## Phase 1 — Profile polish
